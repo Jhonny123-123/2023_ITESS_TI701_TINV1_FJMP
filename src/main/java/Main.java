@@ -4,9 +4,12 @@
  */
 
 /**
- *
+ * ITESS
+ * 22/09/2023
  * @author Jonathan Rojas
  */
 public class Main {
-    
+    public static void main(String[] args) {
+     System.out.println("Hola mundo este es mi primer linea d ecodigo en un repositorio github");       
+    }
 }
